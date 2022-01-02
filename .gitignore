@@ -1,0 +1,19 @@
+### all ignore ###
+/*
+/.**
+
+### not ignore ###
+!/.zshrc
+!/.config/
+!/.config/**
+!/.local
+!/.oh-my-zsh
+!/.oh-my-zsh/**
+!/.vscode
+!/.vscode/**
+!/.gitconfig
+!/.p10k.zsh
+
+!/install.sh
+!/README.md
+!.gitignore
