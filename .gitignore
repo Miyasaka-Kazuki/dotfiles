@@ -15,5 +15,6 @@
 !/.p10k.zsh
 
 !/install.sh
+!/update.sh
 !/README.md
 !.gitignore
